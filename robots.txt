@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohhauwesh.ryoxx.com/sitemap.xml
